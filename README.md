@@ -1,4 +1,5 @@
 # Hi 👋 I'm Anirudh Singh
+![Profile Views](https://komarev.com/ghpvc/?username=theanirudh18&color=blue)
 
 🎓 Computer Science Engineering Student
 💻 Practicing Data Structures & Algorithms in C++

@@ -58,29 +58,24 @@
 
 ## 📚 Currently Learning
 
-Cybersecurity
-Cloud Computing
-Google Vertex AI
-
+Cybersecurity • Cloud Computing • Google Vertex AI
 ---
 
 ## 📂 Projects
 
-## 📂 Projects
-
-### 🌍 KhojKr – Tourist Place Finder
-
-Interactive web application that helps users discover tourist places using map-based search and location visualization.
-
-**Tech:** HTML • CSS • JavaScript • Leaflet.js
-
----
 
 ### ♻️ ClothCycle – Clothing Donation & Recycling Platform
 
 Full-stack platform that manages clothing donations with QR-based verification and environmental impact tracking.
 
 **Tech:** Node.js • Express.js • MySQL • JavaScript
+
+---
+### 🌍 KhojKr – Tourist Place Finder
+
+Interactive web application that helps users discover tourist places using map-based search and location visualization.
+
+**Tech:** HTML • CSS • JavaScript • Leaflet.js
 
 ---
 

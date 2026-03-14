@@ -1,4 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Anirudh Singh
+
+🎓 Computer Science Engineering Student
+💻 Practicing Data Structures & Algorithms in C++
+🌐 Web Developer (HTML, CSS, JavaScript)
+🔐 Interested in Cybersecurity
+
+---
+
+## 🚀 Skills
+
+C++
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+Cybersecurity
+Cloud Computing
+Google Vertex AI
+
+---
+
+## 📂 Projects
+
+🌍 KhojKr – Tourist Place Finder
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanirudh18\&show_icons=true)
+
 
 <!--
 **theanirudh18/theanirudh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

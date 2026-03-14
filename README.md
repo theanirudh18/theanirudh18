@@ -66,7 +66,35 @@ Google Vertex AI
 
 ## 📂 Projects
 
-🌍 KhojKr – Tourist Place Finder
+## 📂 Projects
+
+### 🌍 KhojKr – Tourist Place Finder
+
+Interactive web application that helps users discover tourist places using map-based search and location visualization.
+
+**Tech:** HTML • CSS • JavaScript • Leaflet.js
+
+---
+
+### ♻️ ClothCycle – Clothing Donation & Recycling Platform
+
+Full-stack platform that manages clothing donations with QR-based verification and environmental impact tracking.
+
+**Tech:** Node.js • Express.js • MySQL • JavaScript
+
+---
+
+### 🛡 Spoof Detection System
+
+Computer vision model that detects spoof attempts using motion analysis and OpenCV.
+
+**Tech:** Python • OpenCV
+
+---
+
+### 🏆 Sports Talent Assessment Platform
+
+Technology-driven platform developed during Smart India Hackathon to identify sports talent using structured evaluation workflows.
 
 ---
 

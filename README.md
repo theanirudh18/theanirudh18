@@ -98,7 +98,17 @@ Technology-driven platform developed during Smart India Hackathon to identify sp
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanirudh18\&show_icons=true)
 
+---
 
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theanirudh18&layout=compact&theme=github_dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=theanirudh18&theme=github-dark)
 <!--
 **theanirudh18/theanirudh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

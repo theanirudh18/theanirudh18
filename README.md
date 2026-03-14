@@ -9,13 +9,15 @@
 
 ## 🚀 Skills
 
-C++
-HTML
-CSS
-JavaScript
-PHP
-MySQL
-Git & GitHub
+![C++](https://img.shields.io/badge/C++-blue)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
 
 ---
 
